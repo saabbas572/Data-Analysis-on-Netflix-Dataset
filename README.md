@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Netflix Titles Data Analysis
 
 ## Project Overview
@@ -89,3 +90,6 @@ This view focuses on an individual title with:
 - Build time-series analysis for content additions by year and month
 - Create automated dashboards or a Jupyter notebook walkthrough
 
+=======
+# Data-Analysis-on-Netflix-Dataset
+>>>>>>> 57f292791011bd37b0cc9408c45d2777e533b344
